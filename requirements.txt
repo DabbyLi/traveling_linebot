@@ -1,0 +1,8 @@
+beautifulsoup4==4.6.3
+Flask>=2.2.2
+line_bot_sdk==1.19.0
+pandas==1.2.4
+pygsheets==2.0.6
+Requests==2.30.0
+psycopg2_binary==2.9.6
+pymongo==4.4.0
